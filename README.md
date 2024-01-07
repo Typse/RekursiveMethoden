@@ -16,3 +16,9 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+### Rekursive Methoden
+
+**Aufgabe 2: Rekursive Fakultätsberechnung**
+- Implementiere eine rekursive Methode, um die Fakultät einer Zahl zu berechnen.
+- Die Methode sollte eine ganze Zahl als Eingabe nehmen und das Ergebnis zurückgeben.
